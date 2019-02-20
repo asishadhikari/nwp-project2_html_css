@@ -1,30 +1,38 @@
+*{
+	/*enforce padding and border on all elements*/
+	box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(218, 242, 235);
+}
+
+
+
+
 .header{
-	color: rgba(186,16,59,.9);
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: rgb(237, 225, 225);
+	text-align: center;
+	width: auto;
+	height: auto;
+	padding: auto;
+	border: 1px solid blue;
+}
+
+
+
+
+.img_desc{
 	text-align: center;
 }
 
-
-img{
-	max-width: 100%;
-	max-height: 100%;
+.img_left{
+	width: 50%;
 }
 
-.img_link {
-  height: 300px;
-  width: 300px;
+.img_right{
+	width: 50%;
 }
-
-
-.img_description{
-	position: relative;
-	visibility: hidden;
-	opacity: 0;
-	transition: opacity .2s, visibility .2s;
-}
-
-
-.img_link:hover .img_description{
-	visibility: visible;
-	opacity: 1;
-}
-
