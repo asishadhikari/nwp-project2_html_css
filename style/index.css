@@ -1,0 +1,30 @@
+.header{
+	color: rgba(186,16,59,.9);
+	text-align: center;
+}
+
+
+img{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.img_link {
+  height: 300px;
+  width: 300px;
+}
+
+
+.img_description{
+	position: relative;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity .2s, visibility .2s;
+}
+
+
+.img_link:hover .img_description{
+	visibility: visible;
+	opacity: 1;
+}
+
