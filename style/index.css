@@ -18,10 +18,14 @@ header{
 }
 
 
+section{
+	background-image: url("../asset/background.jpg");
+
+}
 
 footer{
 	background-color: rgba(0,7,17,0.7);
-	padding: 30px;
+	margin-top: 0px;
 	text-align: center;
 	font-size: 20px;
 	color: white;
@@ -68,18 +72,12 @@ footer{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
+.desc{
+	font-size: 20px;
+}
 
 .img_desc{
 	text-align: center;
+	font-size: 35px;
+	color: red;
 }
