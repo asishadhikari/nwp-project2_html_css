@@ -69,7 +69,10 @@ body{
 	margin-bottom: 0px;
 	padding-bottom: 0px;
 	color: white;
+}
 
+.desc .a{
+	 -webkit-animation:colorchange 1s infinite alternate;
 }
 
  @-webkit-keyframes colorchange {
