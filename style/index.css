@@ -1,4 +1,5 @@
 *{
+	/*M(argin) B(order) P(adding) model for div sizes*/
 	/*enforce padding and border on all elements*/
 	box-sizing: border-box;
 }
@@ -9,7 +10,7 @@ body {
 }
 
 
-header{
+.banner{
   background-color: rgba(0,7,17,0.7);
   padding: 30px;
   text-align: center;
@@ -31,46 +32,7 @@ footer{
 	color: white;
 }
 
-.img_row{
-	display: flex;
-	display: -ms-flexbox;
-	-ms-flex-wrap: wrap;
-	flex-wrap: wrap;
-	padding: 0 5px;
-}
-
-
-/* Create four equal columns that sits next to each other */
-.column {
-  -ms-flex: 25%; /* IE10 */
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
-}
-
-
-
-.img_col{
-	-ms-flex: 50%;
-	flex: 50%;
-	max-width: 50%;
-	padding: 0 4px;
-}
-
-.img_col img{
-	margin-top: 5px;
-	vertical-align: middle;
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    -ms-flex: 100%;
-    flex: 100%;
-    max-width: 100%;
-  }
-}
-
+.img_row
 
 .desc{
 	font-size: 20px;
