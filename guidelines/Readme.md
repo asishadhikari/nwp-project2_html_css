@@ -30,9 +30,9 @@ After  the  Links  section  there  is  a  short copyright  notice that  appears 
 
 The text is spaced such that the last letter lines up on horizontally for each of the three lines.
 
-The names of the four major steps of the recipe directions(such as "Preheat Oven") are strongly emphasized. 
+** The names of the four major steps of the recipe directions(such as "Preheat Oven") are strongly emphasized. 
 
-The quotations from the users appear in an  italic font  as indented blocks with background color #FFFFA8(red=255, green=255, blue=168). Some words in the last quote are bolded for emphasis.
+** The quotations from the users appear in an  italic font  as indented blocks with background color #FFFFA8(red=255, green=255, blue=168). Some words in the last quote are bolded for emphasis.
 
 The picture of the pie and the W3C validator imagesat the bottom come from the following images, respectively: 
 	pie.jpg(use an absolute URL to link to this image; don't link to a relative URL on your hard drive)
@@ -40,10 +40,10 @@ The picture of the pie and the W3C validator imagesat the bottom come from the f
 	w3c-css.png
 
 The page bottom has four links:
-	+ The "Home" link should go to your index.htmlpage. Use a relative URL and assume it is located on the same site and directory as pie.html.
+	+ ** The "Home" link should go to your index.htmlpage. Use a relative URL and assume it is located on the same site and directory as pie.html.
  	+ The "Search for other lemon meringue pie recipes" text, "W3C HTML5" button, and "W3C CSS" button should link to the following web pages, 
  		respectively:
- 			http://www.google.com/search?q=lemon+meringue+pie+recipe&start=10
+ 			** http://www.google.com/search?q=lemon+meringue+pie+recipe&start=10
  			validate-html.php(this is our custom W3C HTML validator)
  			validate-css.php(this is our custom W3C CSS validator)
 

@@ -11,12 +11,15 @@ body{
 	background-color: rgb(240,240,240);
 	display: inline-block;
 	letter-spacing: .25em;
+	margin: 0%;
 }
 
 .main_heading{
 	font-weight: bold;
 	font-size: 22px;
+	margin:2%;
 }
+
 
 .norm_text{
 	color: rgb(64,64,64);
@@ -30,7 +33,7 @@ a{
 
 .comment{
 	margin: 5%;
-	background-color:rgb(243, 244, 156);
+	background-color:rgb(255, 255, 168);
 	margin-top: 1.5%;
 	margin-bottom: 1.5%;
 	font-style: italic;
