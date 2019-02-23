@@ -34,9 +34,9 @@ and  a background  color  of  #F0F0F0  (red=240,  green=240,  blue=240).
 
 - [x] The quotations from the users appear in an  italic font  as indented blocks with background color #FFFFA8(red=255, green=255, blue=168). Some words in the last quote are bolded for emphasis.
 
-The page bottom has four links:
+- [x] The page bottom has four links:
 	- [x] The "Home" link should go to your index.htmlpage. Use a relative URL and assume it is located on the same site and directory as pie.html.
- 	+ The "Search for other lemon meringue pie recipes" text, "W3C HTML5" button, and "W3C CSS" button should link to the following web pages, 
+ 	- [x] The "Search for other lemon meringue pie recipes" text, "W3C HTML5" button, and "W3C CSS" button should link to the following web pages, 
  		respectively:
  			- [x] http://www.google.com/search?q=lemon+meringue+pie+recipe&start=10
  			- [x] validate-html.php(this is our custom W3C HTML validator)
