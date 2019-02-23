@@ -1,0 +1,29 @@
+body{
+	background-image: url(../asset/silverware.jpg);
+	background-color: white;
+}
+
+.heading{
+	color: rgb(164,164,0);
+	font-family: Lucida, "Sans Unicode", Helvetica, Arial;
+	font-size: 18px;
+	text-decoration: underline;
+	background-color: rgb(240,240,240);
+	display: inline-block;
+}
+
+.main_heading{
+	font-weight: bold;
+	font-size: 22px;
+}
+
+.norm_text{
+	color: rgb(64,64,64);
+	font-size: 11px;
+	font-family: Georgia, Garamond, "Times New Roman", Times, serif;
+}
+
+a{
+	color: rgb(164,164,0);
+}
+
