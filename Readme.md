@@ -39,8 +39,8 @@ The page bottom has four links:
  	+ The "Search for other lemon meringue pie recipes" text, "W3C HTML5" button, and "W3C CSS" button should link to the following web pages, 
  		respectively:
  			[x] http://www.google.com/search?q=lemon+meringue+pie+recipe&start=10
- 			validate-html.php(this is our custom W3C HTML validator)
- 			validate-css.php(this is our custom W3C CSS validator)
+ 			[x] validate-html.php(this is our custom W3C HTML validator)
+ 			[x] validate-css.php(this is our custom W3C CSS validator)
 
 [x] Favicon: Set the page to have a "favorites icon" ("favicon"). Use:pie-icon.gif
 
@@ -48,6 +48,6 @@ The page bottom has four links:
 
 [x] Wide headings: Place 0.25em horizontal spacing between neighboring letters in all headings on the page
 
-Tight heading background: Make it so that the gray background behind the headings on the page is onlybehind the text itself, not stretched across the entire width of the page. (Looks nice with extra feature #1.)
+[x] Tight heading background: Make it so that the gray background behind the headings on the page is onlybehind the text itself, not stretched across the entire width of the page. (Looks nice with extra feature #1.)
 
-place a comment header in each file containing your name and section and a brief description of the assignment and the file's contents.
+[x] place a comment header in each file containing your name and section and a brief description of the assignment and the file's contents.

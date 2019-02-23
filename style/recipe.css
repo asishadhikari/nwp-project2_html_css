@@ -1,3 +1,12 @@
+/* 
+	© Ashish Adhikari 
+	
+	This is the stylesheet used by pie.html
+
+ */
+
+
+
 body{
 	background-image: url(../asset/silverware.jpg);
 	background-color: white;
@@ -34,6 +43,7 @@ ul{
 	color: rgb(64,64,64);
 	font-size: 11px;
 	font-family: Georgia, Garamond, "Times New Roman", Times, serif;
+	
 }
 
 .comment{
