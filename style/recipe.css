@@ -10,6 +10,7 @@ body{
 	text-decoration: underline;
 	background-color: rgb(240,240,240);
 	display: inline-block;
+	letter-spacing: .25em;
 }
 
 .main_heading{
@@ -27,3 +28,12 @@ a{
 	color: rgb(164,164,0);
 }
 
+.comment{
+	margin: 5%;
+	background-color:rgb(243, 244, 156);
+	margin-top: 1.5%;
+	margin-bottom: 1.5%;
+	font-style: italic;
+	
+
+}

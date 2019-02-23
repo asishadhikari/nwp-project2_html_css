@@ -19,10 +19,10 @@ and  a background  color  of  #F0F0F0  (red=240,  green=240,  blue=240).
 ** Any links on thepage should use the color #A4A400 (red=164, green=164, blue=0), matching the color of the page headings.
 
 
-In the Ingredients list, the underlined words "tbsp" and "tsp" are abbreviationsfor "tablespoons" and "teaspoon" respectively. When the user hovers the mouse over these abbreviations, the full word should appear as a tooltip.
+** In the Ingredients list, the underlined words "tbsp" and "tsp" are abbreviationsfor "tablespoons" and "teaspoon" respectively. When the user hovers the mouse over these abbreviations, the full word should appear as a tooltip.
 
 
-At the end of the Directions, the deleted word "cake" with a strike-out line through it is replaced by the word "pie".
+** At the end of the Directions, the deleted word "cake" with a strike-out line through it is replaced by the word "pie".
 
 
 After  the  Links  section  there  is  a  short copyright  notice that  appears  as  a  section  of pre-formatted  textin  a monospace font. 
@@ -47,11 +47,11 @@ The page bottom has four links:
  			validate-html.php(this is our custom W3C HTML validator)
  			validate-css.php(this is our custom W3C CSS validator)
 
-Favicon: Set the page to have a "favorites icon" ("favicon"). Use:pie-icon.gif
+** Favicon: Set the page to have a "favorites icon" ("favicon"). Use:pie-icon.gif
 
 Pie bullet: Set all bulleted lists of items on the page to use an image for their bullet icon rather than thenormal black circle. Use the following image: pie-icon.gif
 
-Wide headings: Place 0.25em horizontal spacing between neighboring letters in all headings on the page
+** Wide headings: Place 0.25em horizontal spacing between neighboring letters in all headings on the page
 
 Tight heading background: Make it so that the gray background behind the headings on the page is onlybehind the text itself, not stretched across the entire width of the page. (Looks nice with extra feature #1.)
 
