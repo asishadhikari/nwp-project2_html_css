@@ -3,6 +3,15 @@ body{
 	background-color: white;
 }
 
+
+a{
+	color: rgb(164,164,0);
+}
+
+ul{
+	list-style-image: url(../asset/pie_icon.gif);
+}
+
 .heading{
 	color: rgb(164,164,0);
 	font-family: Lucida, "Sans Unicode", Helvetica, Arial;
@@ -27,16 +36,10 @@ body{
 	font-family: Georgia, Garamond, "Times New Roman", Times, serif;
 }
 
-a{
-	color: rgb(164,164,0);
-}
-
 .comment{
 	margin: 5%;
 	background-color:rgb(255, 255, 168);
 	margin-top: 1.5%;
 	margin-bottom: 1.5%;
 	font-style: italic;
-	
-
 }

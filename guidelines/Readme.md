@@ -25,7 +25,7 @@ and  a background  color  of  #F0F0F0  (red=240,  green=240,  blue=240).
 ** At the end of the Directions, the deleted word "cake" with a strike-out line through it is replaced by the word "pie".
 
 
-After  the  Links  section  there  is  a  short copyright  notice that  appears  as  a  section  of pre-formatted  textin  a monospace font. 
+** After  the  Links  section  there  is  a  short copyright  notice that  appears  as  a  section  of pre-formatted  textin  a monospace font. 
 
 
 The text is spaced such that the last letter lines up on horizontally for each of the three lines.
@@ -49,7 +49,7 @@ The page bottom has four links:
 
 ** Favicon: Set the page to have a "favorites icon" ("favicon"). Use:pie-icon.gif
 
-Pie bullet: Set all bulleted lists of items on the page to use an image for their bullet icon rather than thenormal black circle. Use the following image: pie-icon.gif
+** Pie bullet: Set all bulleted lists of items on the page to use an image for their bullet icon rather than thenormal black circle. Use the following image: pie-icon.gif
 
 ** Wide headings: Place 0.25em horizontal spacing between neighboring letters in all headings on the page
 
