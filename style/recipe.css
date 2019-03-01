@@ -21,6 +21,10 @@ ul{
 	list-style-image: url(../asset/pie_icon.gif);
 }
 
+ol.list{
+	list-style-image: url(../asset/pie_icon.gif);
+}
+
 .heading{
 	color: rgb(164,164,0);
 	font-family: Lucida, "Sans Unicode", Helvetica, Arial;
