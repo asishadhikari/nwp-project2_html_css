@@ -2,7 +2,7 @@
 # Requirements
 
 
-[x] All headings on  the  page  should  use  a  foreground  color  of  #A4A400  (red=164,  green=164,  blue=0)
+- [x] All headings on  the  page  should  use  a  foreground  color  of  #A4A400  (red=164,  green=164,  blue=0)
 and  a background  color  of  #F0F0F0  (red=240,  green=240,  blue=240).
 
 [x] The  font  families  for  headings  are:  Lucida, Sans Unicode, Helvetica, Arial, or any sans-serif font available on the system (in that order).
