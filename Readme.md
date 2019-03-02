@@ -38,10 +38,7 @@ and  a background  color  of  #F0F0F0  (red=240,  green=240,  blue=240).
 - [x] The quotations from the users appear in an  italic font  as indented blocks with background color #FFFFA8(red=255, green=255, blue=168). Some words in the last quote are bolded for emphasis.
 
 - [x] The "Search for other lemon meringue pie recipes" text, "W3C HTML5" button, and "W3C CSS" button should link to the following web pages, 
- 		respectively:
- 		* http://www.google.com/search?q=lemon+meringue+pie+recipe&start=10
- 		* validate-html.php(this is our custom W3C HTML validator)
- 		* validate-css.php(this is our custom W3C CSS validator)
+ 		respectively: http://www.google.com/search?q=lemon+meringue+pie+recipe&start=10, validate-html.php(this is our custom W3C HTML validator), validate-css.php(this is our custom W3C CSS validator)
 
 - [x] Favicon: Set the page to have a "favorites icon" ("favicon"). Use:pie-icon.gif
 
