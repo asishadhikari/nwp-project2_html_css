@@ -1,5 +1,7 @@
 * Github page deployed at https://asishadhikari.github.io/nwp-project2_html_css/
 # Requirements
+
+
 [x] All headings on  the  page  should  use  a  foreground  color  of  #A4A400  (red=164,  green=164,  blue=0)
 and  a background  color  of  #F0F0F0  (red=240,  green=240,  blue=240).
 
